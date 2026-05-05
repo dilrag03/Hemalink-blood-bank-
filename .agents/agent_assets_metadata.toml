@@ -6,3 +6,9 @@ id = "16CT_sFxvwdbldtXIyrs_"
 uri = "file://Hemalink-blood-bank.tar.gz"
 type = "unspecified"
 title = "Hemalink Blood Bank - Project Files"
+
+[[outputs]]
+id = "RqQ1WNkN7j36jzEFPisQG"
+uri = "file://Hemalink_Report_Package.tar.gz"
+type = "unspecified"
+title = "Hemalink Blood Bank - Project Report + Screenshots"
